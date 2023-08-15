@@ -1,6 +1,4 @@
-// we will be using this dummy data,
-// don't worry, you can find this data in the git repo 
-// you can find the git repo link in the description ;)
+
 
 export const categories = [
   {
@@ -45,7 +43,7 @@ export const coffeeItems = [
     image: require('../assets/images/coffee2.png'),
     desc: 'The taste of coffee can vary depending on factors such as the type of beans, roast level, brewing method, and the addition of any flavors or sweeteners.'
   },
-  
+    
   {
     id: 3,
     name: 'Espresso',
